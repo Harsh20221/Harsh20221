@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh20221 from NSUT ( ECE ) Delhi 
 - 👀 I’m interested in AI and Machine  Learning 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Flutter Framework
 - 💞️ I’m looking to collaborate on  C++ and Intresting AI & ML projects in python 
 - 📫 How to reach me--- Linkedin ---https://www.linkedin.com/in/harsh-kumar-81655b287
 
